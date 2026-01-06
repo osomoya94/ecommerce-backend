@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -25,6 +25,23 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Ecommerce Backend
+
+API REST para un e-commerce con autenticación y gestión de recursos.
+
+## Stack
+- Node.js / NestJS
+- TypeScript
+- PostgreSQL
+- TypeORM
+- JWT Auth
+
+## Funcionalidades principales
+- Registro / Login
+- Roles y permisos
+- CRUD de productos y categorías
+- Gestión de órdenes
+- Carga de archivos / imágenes (si aplica)
 
 ## Project setup
 
@@ -97,6 +114,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-=======
+
 # ecommerce-backend
->>>>>>> 367f86541de87ad768d023b51f2405c55aef3488
+367f86541de87ad768d023b51f2405c55aef3488
